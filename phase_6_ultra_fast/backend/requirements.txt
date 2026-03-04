@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+pandas
+thefuzz
+python-Levenshtein
+python-dotenv
+google-genai
+pydantic
+pytest
+httpx

@@ -1,0 +1,8 @@
+{
+    "version": 2,
+    "env": {
+        "BACKEND_URL": "https://restaurant-recommender-api.onrender.com"
+    },
+    "buildCommand": "npm run build",
+    "outputDirectory": ".next"
+}

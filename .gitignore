@@ -1,0 +1,24 @@
+# General
+.DS_Store
+*.log
+.env
+.env.local
+
+# Python
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+*.egg-info/
+
+# Node
+node_modules/
+.next/
+dist/
+build/
+
+# Project Specific
+phase_6_ultra_fast/backend/data/zomato_cleaned.csv
+phase_1_data_pipeline/zomato_cleaned.csv
+# We keep the slim version
+!phase_6_ultra_fast/backend/data/zomato_slim.csv
