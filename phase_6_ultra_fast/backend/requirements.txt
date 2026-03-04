@@ -4,7 +4,8 @@ pandas
 thefuzz
 python-Levenshtein
 python-dotenv
-google-genai
+google-generativeai
+groq
 pydantic
 pytest
 httpx
